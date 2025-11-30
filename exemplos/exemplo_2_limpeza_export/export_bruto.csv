@@ -1,0 +1,6 @@
+﻿Data,Cliente,Produto,Quantidade,Total,Notas,ColunaInutil
+1/1/2025,Cliente A,Produto X,1,"100,00",pago,lixo
+2/1/2025,Cliente B,Produto Y,2,"200,50",por pagar,bla
+3/1/2025,Cliente A,Produto X,3,"300,00",devolução,xxx
+,,,,,linha vazia,
+5/1/2025,cliente a,produto x,1,"100,00",nome repetido,teste
