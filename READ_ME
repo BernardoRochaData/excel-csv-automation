@@ -1,0 +1,25 @@
+# Excel / CSV automation with Python
+
+Small examples of how I use Python (pandas) to automate Excel and CSV workflows.
+
+## Examples
+
+### 1. Merge monthly Excel files
+
+Folder: `exemplos/exemplo_1_merge_mensal`
+
+- Input: multiple monthly `.xlsx` files in `dados_brutos/`
+- Script: `merge_mensal.py`
+- Output: `relatorio_anual.xlsx` with:
+  - `Dados_Limpos`
+  - `Resumo_Clientes`
+  - `Resumo_Produtos`
+  - `Resumo_Mensal`
+
+### 2. Clean messy CSV export
+
+Folder: `exemplos/exemplo_2_limpeza_export`
+
+- Input: `export_bruto.csv`
+- Script: `limpeza_export.py`
+- Output: `dados_limpos.xlsx` with cleaned and normalized data
